@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Share Hope</string>
+    <string name="needy">Needy</string>
+    <string name="donor">Donor</string>
+    <string name="sign_in">Sign In</string>
+    <string name="send">Send</string>
+    <string name="by_email">By Email</string>
+    <string name="by_number">By Number</string>
+
+    <string-array name="phonecodes">
+        <item>+90</item>
+        <item>+91</item>
+        <item>+92</item>
+        <item>+242</item>
+        <item>+322</item>
+        <item>+332</item>
+    </string-array>
+    <string-array name="ScholarshipType">
+        <item>Select the Scholarship type</item>
+        <item>Education</item>
+        <item>Health</item>
+        <item>Rashan</item>
+    </string-array>
+</resources>
